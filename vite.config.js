@@ -1,7 +1,7 @@
 import { defineConfig } from "vite"
 
 export default defineConfig({
-  base: process.env.NODE_ENV === "production" ? "/vita-vanilla-js-app/" : "/",
+  base: '/spa-vite/',
   root: ".",
   build: {
     outDir: "dist",
