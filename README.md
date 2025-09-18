@@ -46,7 +46,7 @@ src/
 ### Instalación
 
 # Clonar el repositorio
-git clone [https://github.com/tu-usuario/vite-vanilla-spa.git](https://github.com/AnthonySSE/SPA-Vite.git)
+git clone https://github.com/AnthonySSE/SPA-Vite.git
 cd SPA-Vite
 
 # Instalar dependencias
