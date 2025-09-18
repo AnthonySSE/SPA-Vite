@@ -22,7 +22,6 @@ Una aplicación de página única (SPA) construida con Vite y Vanilla JavaScript
 
 ## Estructura del Proyecto
 
-\`\`\`
 src/
 ├── components/          # Componentes reutilizables
 │   ├── Navbar.js       # Barra de navegación
@@ -38,8 +37,6 @@ src/
 │   └── StateManager.js # Estado global con localStorage
 ├── style.css           # Estilos globales
 └── main.js             # Punto de entrada
-\`\`\`
-
 ## Instalación y Desarrollo
 
 ### Prerrequisitos
@@ -98,7 +95,7 @@ npm run clean    # Limpiar archivos temporales
 - **Flexbox** y **CSS Grid** para layouts
 - **Animaciones suaves** y transiciones
 
-## 🔧 Funciones de Debug
+## Funciones de Debug
 
 En modo desarrollo, tienes acceso a funciones de debug en la consola:
 // Acceder al estado global
@@ -129,8 +126,6 @@ window.debugState.clearStorage()
 | **Estilos** | ✅ | CSS responsive y moderno |
 | **GitHub Pages** | ✅ | Configuración completa para despliegue |
 - [GitHub Pages](https://pages.github.com/) por el hosting gratuito
-- La comunidad de JavaScript por las mejores prácticas
-
 ---
 
 **¡Hecho con ❤️ y Vanilla JavaScript!**
